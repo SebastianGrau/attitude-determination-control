@@ -10,6 +10,10 @@ adcsim/*
 demo/*
 !demo/*.py
 
+!notebook/
+notebook/*
+!notebook/*.ipynb
+
 !test/
 test/*
 !test/*.py
