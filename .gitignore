@@ -5,3 +5,7 @@
 !adcsim/
 adcsim/*
 !adcsim/*.py
+
+!test/
+test/*
+!test/*.py
