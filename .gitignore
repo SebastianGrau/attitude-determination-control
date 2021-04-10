@@ -6,6 +6,10 @@
 adcsim/*
 !adcsim/*.py
 
+!demo/
+demo/*
+!demo/*.py
+
 !test/
 test/*
 !test/*.py
